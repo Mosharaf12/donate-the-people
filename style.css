@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+font-family: 'Gulzar', serif;
+
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.first-section{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+
+}
+.content{
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    padding-top: 150px;
+
+}
+.button-color{
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    font-weight: 700;
+    padding: 4px 26px;
+    margin: 10px 10px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+.amount-box{
+    display: inline-block;
+    border: 2px solid black;
+    background-color: grey;
+    border-radius: 15px;
+    margin: 30px;
+    padding: 20px 20px;
+    width: 100px;
+    padding-left: 70px;
+}
+.amount-tk{
+    text-align: center;
+    padding: 166px 25px;
+    margin: 10px 10px;
+}
+.para{
+    text-align: center;
+}
+.plan{
+    text-align: center;
+    padding: 166px 25px;
+    margin: 10px 10px;
+}
+.family{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aquamarine;
+    padding: 20px 20px;
+    margin: 20px;
+    width: 300px;
+    padding-left: 30px;
+}
+.four-section{
+    display: flex;
+    margin: 2%;
+
+}
+.depands{
+    padding-left: 70px;
+    margin-top: 50px;
+    width: 50%;
+}
+.image{
+    margin-top: 70px;
+    width: 80%;
+    
+}
+.five-section{
+    text-align: center;
+    margin-top: 10%;
+}
+.search{
+   
+}
+.srch{
+
+    background: orange;
+
+}
+footer{
+    margin-top: 15%;
+    text-align: center;
+    font-style: italic;
+    font-weight: 700;
+    background: black;
+    color: white;
+    
+}
+
+   
